@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail23.png" width="800">
+</p>
+
 # 🚀 LexiScrape – Web Scraping & NLP Text Analyzer
 
 LexiScrape is a Python-based project that combines **Web Scraping** and **Natural Language Processing (NLP)** to extract, clean, and analyze textual data from web pages.
@@ -102,5 +106,11 @@ python main.py
 LexiScrape is a beginner-friendly yet powerful project that showcases how **web data can be transformed into meaningful insights using NLP techniques**.
 
 ---
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/LexiScrape.git)
 
 ⭐ If you found this project useful, consider giving it a star!
